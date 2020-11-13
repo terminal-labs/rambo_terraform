@@ -1,0 +1,25 @@
+syntax: glob
+
+## patterns
+*.orig
+*.tgz
+*.swp
+*.swo
+*~
+*.DS_Store*
+*.vagrant*
+*.pem
+*.pub
+*.log
+*.#*
+*#
+
+## paths
+activate.sh
+env.sh
+digitalocean.env.sh
+aws.env.sh
+.tmp/**
+keys/**
+.rambo-tmp
+saltstack/etc

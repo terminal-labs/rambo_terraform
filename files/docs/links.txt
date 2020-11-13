@@ -1,0 +1,3 @@
+http://zonov.me/howto-create-an-aws-lambda-function-using-terraform
+https://github.com/hashicorp/terraform-guides
+https://pragmacoders.com/2-creating-an-ec2-instance-with-terraform
